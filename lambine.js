@@ -31,5 +31,3 @@ async function createCategoryButtons() {
 
 }
     createCategoryButtons();
-
-    
